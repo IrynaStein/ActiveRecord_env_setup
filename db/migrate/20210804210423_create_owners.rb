@@ -5,3 +5,5 @@ class CreateOwners < ActiveRecord::Migration[6.1]
     end
   end
 end
+
+#this table hasn't been migrated yet
